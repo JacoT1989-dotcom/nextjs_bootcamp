@@ -36,9 +36,8 @@ const Landing = () => {
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl text-gray-300 mb-12 max-w-4xl mx-auto px-4 leading-[1.8] pb-2">
               Master modern web development from HTML to NextJS. Build
-              real-world projects with TypeScript, React, and server-side
-              rendering and ontop of that you will be introduced to a real work
-              project and Claude Sonnet A.I
+              real-world projects with TypeScript, React, server-side rendering
+              and ontop of that you will be introduced to Claude Sonnet A.I
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center px-4">
               <Button
